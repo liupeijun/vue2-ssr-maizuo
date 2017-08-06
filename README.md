@@ -1,6 +1,6 @@
 # vue2-ssr-maizuo
 
-### 此项目是基于vue2, vuex2, vue-router2 的server side rendering的最佳实践
+### Vue的服务端渲染, 解决单页面应用的首屏加载速度和 seo等问题, 此项目是基于vue2, vuex2, vue-router2 的server side rendering的最佳实践
 
 
 
